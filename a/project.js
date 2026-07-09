@@ -1,2 +1,2 @@
-console.log("good moning");
-console.log("JavaScript")
+
+console.log("welcome to JavaScript");
